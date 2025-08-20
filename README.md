@@ -76,10 +76,18 @@ http://localhost:3000/abc123
 ## 📊 Melhorias futuras
 - [ ] Validação de URLs  
 - [ ] Estatísticas de cliques  
-- [ ] Interface web para encurtar links  
+- [x] Interface web para encurtar links  
 - [ ] Expiração de links  
 
 ---
+
+## Interface 
+
+<img width="1258" height="577" alt="{54CE8D00-EBBA-4A18-B438-38FCDE00EB86}" src="https://github.com/user-attachments/assets/e190de87-93df-4a73-870b-e60fea70ecd3" />
+
+<img width="378" height="474" alt="{00271A8B-6F00-465D-8DC2-749D753361CC}" src="https://github.com/user-attachments/assets/b35aef64-47d8-465e-b09a-11612de3d763" />
+
+
 
 ## 📝 Licença
 Esse projeto é open-source sob a licença MIT.
